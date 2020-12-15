@@ -1,0 +1,79 @@
+.badan {
+    background-image: url("/img/HomepageLogin.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 93vh;
+    width: 100%;
+}
+
+.cuciin {
+    max-width: 300px;
+    height: auto;
+    align-items: center;
+}
+
+.tagline {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    color: #514B63;
+    width: max-content;
+}
+
+.card1 {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    background-color: #FFCCBB;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    width: 440px;
+    height: auto;
+}
+
+.cardTitle {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    /* identical to box height */
+    text-align: center;
+    /* Black primary */
+    color: #514B63;
+}
+
+.inputEmail {
+    background-color: white;
+}
+
+.inputEmail1 {
+    width: 270px;
+    border-radius: 4px;
+}
+
+.inputRemember {
+    width: max-content;
+}
+
+.clickDaftar:hover {
+    color: #514B63;
+}
+
+.clickDaftar {
+    font-weight: bold;
+}
+
+.buttonLogin {
+    border-radius: 34px;
+}
+
+.keluar:hover {
+    color: #514B63;
+}
